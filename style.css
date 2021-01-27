@@ -16,12 +16,12 @@ input,select{vertical-align:middle}
 
 html {
     /* The image used */
-    background-image: url("shiny.jpg");
+    /*background-image: url("shiny.jpg");*/
     /* Full height */
     height: 100%;
     width: 100%;
     /* Center and scale the image nicely */
-    background-color:  rgb(200, 200,200;
+    /*background-color:  rgb(200, 200,200;*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
